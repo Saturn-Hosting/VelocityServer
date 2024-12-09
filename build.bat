@@ -1,0 +1,1 @@
+g++ -o build/server server.cpp -lws2_32
